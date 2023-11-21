@@ -79,7 +79,11 @@ Do not attempt to use the jigs without the carriage.
 
 1. Place the carpenter's square or 1x2x3 block on the ledge of the carriage and raise the saw blade until the block just barely slides over the saw blade.
 
+<img src="images/IMG_4328.jpg" width="600">
+
 1. Slide the jig with blanks into the carraige from above. Press down firmly to ensure the bottom of the jig is flush with the bottom of the carriage. The tops should also be flush.
+
+<img src="images/IMG_4329.jpg" width="600">
 
 1. Holding the carriage firmly against the fence, turn on the saw and make the first cuts throug the blanks.
 
