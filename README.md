@@ -1,6 +1,7 @@
 # Mile High Precision Woodworking
 
-# Descriptions 
+![](images/overview.jpg)
+# Introduction 
 
 Thank you for purchasing the Mile High Precision Woodworking system to create and install bowtie inlays.
 We believe this system is the simplest, fastest, safest and most prcesise way to cut bowtie inlays.
