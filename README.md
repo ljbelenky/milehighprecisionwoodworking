@@ -4,7 +4,7 @@
 # Introduction 
 
 Thank you for purchasing the Mile High Precision Woodworking system to create and install bowtie inlays.
-We believe this system is the simplest, fastest, safest and most prcesise way to cut bowtie inlays.
+We believe this system is the simplest, fastest, safest and most prceise way to cut bowtie inlays.
 
 Please do not hesitate to reach out to us at milehighprecisionwoodworking@gmail.com with any questions or feedback.
 We are always looking for opportunities to improve and have a list of modifications and new product configurations we believe may be of use to some users.
@@ -137,7 +137,7 @@ Note: If using the small bowtie size, the maximum bushing outer diameter is 7/16
 
 ### Step 5: Enjoy your work and share your results and feedback
 
-1. We hope you have enjoyed this process and are satisfied with the results. Please send any pictures, comments or suggestions to us at milehighprecisionwoodworking@gmail.com
+1. We hope you have enjoyed this process and are satisfied with the results. Please send any pictures, comments or suggestions to us at milehighprecisionwoodworking@gmail.com. Please tell us if it's okay to include your images on our site.
 
 
 
