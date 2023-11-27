@@ -151,6 +151,10 @@ Note: If using the small bowtie size, the maximum bushing outer diameter is 7/16
 1. Using a hand chisel, carefully square up the four corners of the recess and clean out any wood chips.
 
 1. It may be difficult to fully clean out the bottoms of the tight corners. It may be is easier to file off the underside of the bowtie corners to ensure it will fit fully into the recess.
+<figure>
+<img src="images/bowtie_with_corners_filed.jpg" width="600">
+<figcaption>Notice the corners of the bow tie have been very slightly filed down. This allows it to fit fully into the recess, even if the tight corners are not fully cleared.</figcaption>
+</figure>
 
 1. Test the fit as best as possible. You may need to adjust the fit by filing or sanding the edges of the bowtie, or using a chisel to shave the sides of the recess.
 
