@@ -11,11 +11,13 @@ We are always looking for opportunities to improve and have a list of modificati
 
 # Instructions
 
+If you have a paper copy of these instructions, please visit bit.ly/milehighprecisionwoodworking to make sure you have the most up-to-date version.
+
 ## Required Tools and Materials
 
 To properly use the bowtie inlay system, you will need the following tools:
 
-* A tablesaw with a suitable blade. The blade will need to be able to extend at least 2.5" above the table top when tilted 14 degrees. A 10" blade works well. If you are cutting brass inlays, make sure you get a blade rated for non-ferrous metal. There are many good options available on Amazon or through woodworking stores.
+* A tablesaw with a suitable blade. The blade will need to be able to   extend at least 2.5" above the table top when tilted 14 degrees. A 10" blade works well. If you are cutting brass inlays, make sure you get a blade rated for non-ferrous metal. There are many good options available on Amazon or through woodworking stores.
 
 [This is the blade I use. ](https://www.amazon.com/gp/product/B09RZMZMVB/?th=1)
 
@@ -71,6 +73,12 @@ Do not attempt to use the jigs without the carriage.
 
 1. Make sure all four corners of the blank extend beyond the jig. They will be trimmed flush.
 
+<figure>
+<img src="images/blanks_in_jig.jpg" width="600">
+<figcaption>Place up to four rectangular blanks in the slots and very gently tighten the set screws until they are just snug. Make sure the corners stick out beyond the jig just a little.</figcaption>
+</figure>
+
+
 1. Set the table saw fence on the side that the blade tilts at exactly 5" from the near side of the saw blade.
 
 1. Tilt the saw blade 14 degrees towards the fence. The front and back ends of the carriage can be used for alignment. The blade should be exactly parallel to the sloped surface and nearly touching.
@@ -78,12 +86,19 @@ Do not attempt to use the jigs without the carriage.
 1. Place the carriage on the table saw, against the fence and slide it against the blade. It should fit exactly against the fence and the tilted blade. 
 
 1. Place the carpenter's square or 1x2x3 block on the ledge of the carriage and raise the saw blade until the block just barely slides over the saw blade.
-
+<figure>
 <img src="images/IMG_4328.jpg" width="600">
+<figcaption>Set the 1x2x3 block or carpenter's square on the ledge and raise the blade so it just barely touches the block.</figcaption>
+</figure>
 
 1. Slide the jig with blanks into the carraige from above. Press down firmly to ensure the bottom of the jig is flush with the bottom of the carriage. The tops should also be flush.
 
+1. Ensure that all of the set screws are below the surface of the jig so that they will not touch the tablesaw.
+
+<figure>
 <img src="images/IMG_4329.jpg" width="600">
+<figcaption>Ensure the jig fits into the carriage flush to the top and bottom surface and that the set screws to not extend out of the jig</figcaption>
+<figure>
 
 1. Holding the carriage firmly against the fence, turn on the saw and make the first cuts throug the blanks.
 
@@ -114,6 +129,10 @@ Note: If using the small bowtie size, the maximum bushing outer diameter is 7/16
 1. Position the router template over the crack or defect where the bowtie inlay is to be installed. The triangular cut-outs on the template can be used to align the center of the bowties to pencil lines.
 
 1. Securely tape the routing template to the work using the tabs around the perimeter. Do not use double-sided tape between the template and work.
+<figure>
+<img src="images/template_taped_down.jpg" width="600">
+<figcaption>Use the tabs around the edges to securely tape the routing template to the work. You can see here I have already installed one brass inlay on this crack</figcaption>
+</figure>
 
 1. Place the router bit in the recess for the bowtie and lower the bit until it just touches the surface of the work.
 
