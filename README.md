@@ -69,7 +69,9 @@ All three sizes are cut with the blade at the same height and angle and the fenc
 
 Do not attempt to use the jigs without the carriage.
 
-1. Load the blanks into the jig and gently tighten the set screws until they are just snug. Do not over-tighten. This will crack the jig.
+1. Load the blanks into the jig and gently tighten the set screws until they are just snug. 
+
+**Do not over-tighten. This will crack the jig!**
 
 1. Make sure all four corners of the blank extend beyond the jig. They will be trimmed flush.
 
